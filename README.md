@@ -1,2 +1,2 @@
-# 2023_AI_HW
+# 2023_Algorithms
 Review of the Data structure and Algorithms
